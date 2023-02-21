@@ -1,6 +1,7 @@
 # pinia-tasks
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple project of Task-List with Vue3 and Pinia
+Credits do NetNinja - https://netninja.dev/p/pinia-crash-course
 
 ## Project Setup
 
