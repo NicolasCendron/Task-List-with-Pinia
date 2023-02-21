@@ -1,7 +1,8 @@
 # pinia-tasks
 
-Simple project of Task-List with Vue3 and Pinia
-Credits do NetNinja - https://netninja.dev/p/pinia-crash-course
+Simple project of Task-List with Vue3 and Pinia.
+
+Credits to NetNinja - https://netninja.dev/p/pinia-crash-course
 
 ## Project Setup
 
